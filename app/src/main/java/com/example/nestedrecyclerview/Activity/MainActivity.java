@@ -1,10 +1,13 @@
-package com.example.nestedrecyclerview;
+package com.example.nestedrecyclerview.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+
+import com.example.nestedrecyclerview.Adapter.ParentRecyclerAdapter;
+import com.example.nestedrecyclerview.R;
 
 import java.util.ArrayList;
 
